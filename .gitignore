@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+election.db
+*.db
+.env
+venv/
